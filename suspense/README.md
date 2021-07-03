@@ -1,3 +1,8 @@
+# React.Suspence example 
+
+https://reactjs.org/docs/react-api.html#suspense
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
